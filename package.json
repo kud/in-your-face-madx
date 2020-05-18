@@ -1,5 +1,24 @@
 {
-  "dependencies": {
-    "nodemon": "^2.0.4"
-  }
+  "name": "madx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/les-copains-du-web/madx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/les-copains-du-web/madx/issues"
+  },
+  "homepage": "https://github.com/les-copains-du-web/madx#readme"
 }
